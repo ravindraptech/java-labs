@@ -1,4 +1,4 @@
 # java-labs
-Java Labs
-Web Application
-Spring Boot
+Java Labs,
+Web Application,
+Spring Boot,
